@@ -24,8 +24,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "BG",
+    "path": "folders/Objects/BG.yy",
   },
   "resourceVersion": "1.0",
   "name": "Background_GameSpace_obj",

@@ -24,8 +24,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Interface",
+    "path": "folders/Objects/Interface.yy",
   },
   "resourceVersion": "1.0",
   "name": "GridLeft_obj",
