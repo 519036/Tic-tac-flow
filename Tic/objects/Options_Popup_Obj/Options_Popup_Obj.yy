@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "Options",
-    "path": "sprites/Options/Options.yy",
+    "name": "Options_Popup",
+    "path": "sprites/Options_Popup/Options_Popup.yy",
   },
   "solid": false,
   "visible": true,
@@ -21,7 +21,7 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":true,"eventNum":4,"eventType":6,"collisionObjectId":null,"parent":{"name":"Options_Obj","path":"objects/Options_Obj/Options_Obj.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":true,"eventNum":7,"eventType":7,"collisionObjectId":null,"parent":{"name":"Options_Popup_Obj","path":"objects/Options_Popup_Obj/Options_Popup_Obj.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
@@ -30,7 +30,7 @@
     "path": "folders/Objects/Interface.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Options_Obj",
+  "name": "Options_Popup_Obj",
   "tags": [],
   "resourceType": "GMObject",
 }
