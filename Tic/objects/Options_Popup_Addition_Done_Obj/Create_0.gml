@@ -28,8 +28,17 @@ instance_create_layer(690, 490, "Instances", Arctic_Initiator_Obj);
 /// @DnDAction : YoYo Games.Instances.Create_Instance
 /// @DnDVersion : 1
 /// @DnDHash : 4E83C1CF
-/// @DnDArgument : "xpos" "590"
+/// @DnDArgument : "xpos" "600"
 /// @DnDArgument : "ypos" "490"
 /// @DnDArgument : "objectid" "Ocean_Initiator_Obj"
 /// @DnDSaveInfo : "objectid" "Ocean_Initiator_Obj"
-instance_create_layer(590, 490, "Instances", Ocean_Initiator_Obj);
+instance_create_layer(600, 490, "Instances", Ocean_Initiator_Obj);
+
+/// @DnDAction : YoYo Games.Instances.Create_Instance
+/// @DnDVersion : 1
+/// @DnDHash : 5DE86179
+/// @DnDArgument : "xpos" "450"
+/// @DnDArgument : "ypos" "490"
+/// @DnDArgument : "objectid" "City_Initiator_Obj47"
+/// @DnDSaveInfo : "objectid" "City_Initiator_Obj47"
+instance_create_layer(450, 490, "Instances", City_Initiator_Obj47);

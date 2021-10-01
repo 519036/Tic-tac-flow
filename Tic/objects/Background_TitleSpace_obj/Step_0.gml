@@ -69,3 +69,21 @@ if(l0D8B42F5_0)
 	/// @DnDSaveInfo : "objind" "Background_TitleOcean_obj"
 	instance_change(Background_TitleOcean_obj, true);
 }
+
+/// @DnDAction : YoYo Games.Instances.If_Instance_Exists
+/// @DnDVersion : 1
+/// @DnDHash : 67AA85C0
+/// @DnDArgument : "obj" "City_Tapper_Obj48"
+/// @DnDSaveInfo : "obj" "City_Tapper_Obj48"
+var l67AA85C0_0 = false;
+l67AA85C0_0 = instance_exists(City_Tapper_Obj48);
+if(l67AA85C0_0)
+{
+	/// @DnDAction : YoYo Games.Instances.Change_Instance
+	/// @DnDVersion : 1
+	/// @DnDHash : 481329AE
+	/// @DnDParent : 67AA85C0
+	/// @DnDArgument : "objind" "Background_TitleCity_obj"
+	/// @DnDSaveInfo : "objind" "Background_TitleCity_obj"
+	instance_change(Background_TitleCity_obj, true);
+}

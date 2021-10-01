@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"fbb18968-f312-409c-a886-8eb6c5d38d5f","path":"sprites/Bg_Game_Ocean/Bg_Game_Ocean.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"fbb18968-f312-409c-a886-8eb6c5d38d5f","path":"sprites/Bg_Game_Ocean/Bg_Game_Ocean.yy",},"LayerId":{"name":"f3a4fdf0-8166-4103-bb4d-947f30fb6ba6","path":"sprites/Bg_Game_Ocean/Bg_Game_Ocean.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"Bg_Game_Ocean","path":"sprites/Bg_Game_Ocean/Bg_Game_Ocean.yy",},"resourceVersion":"1.0","name":"fbb18968-f312-409c-a886-8eb6c5d38d5f","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"aad6d8c0-6ea8-48c8-8ff4-5f16331f3336","path":"sprites/Bg_Title_City/Bg_Title_City.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"aad6d8c0-6ea8-48c8-8ff4-5f16331f3336","path":"sprites/Bg_Title_City/Bg_Title_City.yy",},"LayerId":{"name":"aa052c9d-9aa2-42aa-a444-14e047ed5a6e","path":"sprites/Bg_Title_City/Bg_Title_City.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"Bg_Title_City","path":"sprites/Bg_Title_City/Bg_Title_City.yy",},"resourceVersion":"1.0","name":"aad6d8c0-6ea8-48c8-8ff4-5f16331f3336","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"Bg_Game_Ocean","path":"sprites/Bg_Game_Ocean/Bg_Game_Ocean.yy",},
+    "spriteId": {"name":"Bg_Title_City","path":"sprites/Bg_Title_City/Bg_Title_City.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"7cbee653-fc64-47ca-886b-2bfd711d3089","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"fbb18968-f312-409c-a886-8eb6c5d38d5f","path":"sprites/Bg_Game_Ocean/Bg_Game_Ocean.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"07883907-4f8f-44a3-a1b8-c921222145ad","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"aad6d8c0-6ea8-48c8-8ff4-5f16331f3336","path":"sprites/Bg_Title_City/Bg_Title_City.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -58,21 +58,21 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"Bg_Game_Ocean","path":"sprites/Bg_Game_Ocean/Bg_Game_Ocean.yy",},
+    "parent": {"name":"Bg_Title_City","path":"sprites/Bg_Title_City/Bg_Title_City.yy",},
     "resourceVersion": "1.3",
-    "name": "Bg_Game_Ocean",
+    "name": "Bg_Title_City",
     "tags": [],
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"f3a4fdf0-8166-4103-bb4d-947f30fb6ba6","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"aa052c9d-9aa2-42aa-a444-14e047ed5a6e","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
     "name": "Bg",
     "path": "folders/Sprites/Bg.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Bg_Game_Ocean",
+  "name": "Bg_Title_City",
   "tags": [],
   "resourceType": "GMSprite",
 }

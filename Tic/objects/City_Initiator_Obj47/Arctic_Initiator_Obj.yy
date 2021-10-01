@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "Bg_Title_Ocean",
-    "path": "sprites/Bg_Title_Ocean/Bg_Title_Ocean.yy",
+    "name": "InitiatorBG",
+    "path": "sprites/InitiatorBG/InitiatorBG.yy",
   },
   "solid": false,
   "visible": true,
@@ -20,15 +20,17 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [],
+  "eventList": [
+    {"isDnD":true,"eventNum":4,"eventType":6,"collisionObjectId":null,"parent":{"name":"Arctic_Initiator_Obj","path":"objects/Arctic_Initiator_Obj/Arctic_Initiator_Obj.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "BG",
-    "path": "folders/Objects/BG.yy",
+    "name": "Interactors",
+    "path": "folders/Objects/Interactors.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Background_TitleOcean_obj",
+  "name": "Arctic_Initiator_Obj",
   "tags": [],
   "resourceType": "GMObject",
 }

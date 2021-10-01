@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "Bg_Title_Ocean",
-    "path": "sprites/Bg_Title_Ocean/Bg_Title_Ocean.yy",
+    "name": "Bg_Title_City",
+    "path": "sprites/Bg_Title_City/Bg_Title_City.yy",
   },
   "solid": false,
   "visible": true,
@@ -28,7 +28,7 @@
     "path": "folders/Objects/BG.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Background_TitleOcean_obj",
+  "name": "Background_TitleCity_obj",
   "tags": [],
   "resourceType": "GMObject",
 }

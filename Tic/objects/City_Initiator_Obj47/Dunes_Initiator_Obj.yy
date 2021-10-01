@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "Bg_Title_Ocean",
-    "path": "sprites/Bg_Title_Ocean/Bg_Title_Ocean.yy",
+    "name": "Cross",
+    "path": "sprites/Cross/Cross.yy",
   },
   "solid": false,
   "visible": true,
@@ -20,15 +20,17 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [],
+  "eventList": [
+    {"isDnD":true,"eventNum":4,"eventType":6,"collisionObjectId":null,"parent":{"name":"Dunes_Initiator_Obj","path":"objects/Dunes_Initiator_Obj/Dunes_Initiator_Obj.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "BG",
-    "path": "folders/Objects/BG.yy",
+    "name": "Interactors",
+    "path": "folders/Objects/Interactors.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Background_TitleOcean_obj",
+  "name": "Dunes_Initiator_Obj",
   "tags": [],
   "resourceType": "GMObject",
 }

@@ -1,8 +1,5 @@
 {
-  "spriteId": {
-    "name": "Bg_Title_Ocean",
-    "path": "sprites/Bg_Title_Ocean/Bg_Title_Ocean.yy",
-  },
+  "spriteId": null,
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
@@ -24,11 +21,11 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "BG",
-    "path": "folders/Objects/BG.yy",
+    "name": "Interactors",
+    "path": "folders/Objects/Interactors.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Background_TitleOcean_obj",
+  "name": "Dunes_Tapper_Obj",
   "tags": [],
   "resourceType": "GMObject",
 }
