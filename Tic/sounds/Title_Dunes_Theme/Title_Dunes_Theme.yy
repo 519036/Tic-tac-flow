@@ -11,7 +11,7 @@
     "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "Title_Dunes_Theme.mp3",
-  "duration": 283.987457,
+  "duration": 283.982452,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",

@@ -11,7 +11,7 @@
     "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "Game_Space_Theme.mp3",
-  "duration": 288.010345,
+  "duration": 288.005341,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",
