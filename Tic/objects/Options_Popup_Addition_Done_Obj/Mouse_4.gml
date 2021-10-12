@@ -28,6 +28,12 @@ with(City_Initiator_Obj47) instance_destroy();
 /// @DnDApplyTo : {Ocean_Initiator_Obj}
 with(Ocean_Initiator_Obj) instance_destroy();
 
+/// @DnDAction : YoYo Games.Instances.Destroy_Instance
+/// @DnDVersion : 1
+/// @DnDHash : 16275DEF
+/// @DnDApplyTo : {Hidden_Obj}
+with(Hidden_Obj) instance_destroy();
+
 /// @DnDAction : YoYo Games.Instances.Change_Instance
 /// @DnDVersion : 1
 /// @DnDHash : 25477058

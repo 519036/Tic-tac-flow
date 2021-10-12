@@ -42,3 +42,13 @@ instance_create_layer(600, 490, "Instances", Ocean_Initiator_Obj);
 /// @DnDArgument : "objectid" "City_Initiator_Obj47"
 /// @DnDSaveInfo : "objectid" "City_Initiator_Obj47"
 instance_create_layer(450, 490, "Instances", City_Initiator_Obj47);
+
+/// @DnDAction : YoYo Games.Instances.Create_Instance
+/// @DnDVersion : 1
+/// @DnDHash : 797CCD49
+/// @DnDArgument : "xpos" "740"
+/// @DnDArgument : "ypos" "500"
+/// @DnDArgument : "objectid" "Hidden_Obj"
+/// @DnDArgument : "layer" ""NewInstances""
+/// @DnDSaveInfo : "objectid" "Hidden_Obj"
+instance_create_layer(740, 500, "NewInstances", Hidden_Obj);

@@ -11,5 +11,6 @@ instance_destroy();
 /// @DnDArgument : "ypos" "-500"
 /// @DnDArgument : "ypos_relative" "1"
 /// @DnDArgument : "objectid" "OptionsGame_Obj"
+/// @DnDArgument : "layer" ""UI""
 /// @DnDSaveInfo : "objectid" "OptionsGame_Obj"
-instance_create_layer(x + -500, y + -500, "Instances", OptionsGame_Obj);
+instance_create_layer(x + -500, y + -500, "UI", OptionsGame_Obj);

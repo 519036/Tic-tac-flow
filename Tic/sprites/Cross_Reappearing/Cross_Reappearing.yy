@@ -74,7 +74,7 @@
     "spriteId": {"name":"Cross_Reappearing","path":"sprites/Cross_Reappearing/Cross_Reappearing.yy",},
     "timeUnits": 1,
     "playback": 1,
-    "playbackSpeed": 20.0,
+    "playbackSpeed": 25.0,
     "playbackSpeedType": 0,
     "autoRecord": true,
     "volume": 1.0,

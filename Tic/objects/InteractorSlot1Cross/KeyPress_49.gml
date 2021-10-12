@@ -1,9 +1,9 @@
 /// @DnDAction : YoYo Games.Instances.Change_Instance
 /// @DnDVersion : 1
 /// @DnDHash : 760F7600
-/// @DnDArgument : "objind" "Cross_Reappearing_Obj"
-/// @DnDSaveInfo : "objind" "Cross_Reappearing_Obj"
-instance_change(Cross_Reappearing_Obj, true);
+/// @DnDArgument : "objind" "CrossColumn1_Reappearing_Obj"
+/// @DnDSaveInfo : "objind" "CrossColumn1_Reappearing_Obj"
+instance_change(CrossColumn1_Reappearing_Obj, true);
 
 /// @DnDAction : YoYo Games.Instances.Destroy_Instance
 /// @DnDVersion : 1
