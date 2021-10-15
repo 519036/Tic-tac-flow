@@ -87,3 +87,21 @@ if(l67AA85C0_0)
 	/// @DnDSaveInfo : "objind" "Background_TitleCity_obj"
 	instance_change(Background_TitleCity_obj, true);
 }
+
+/// @DnDAction : YoYo Games.Instances.If_Instance_Exists
+/// @DnDVersion : 1
+/// @DnDHash : 434DA53E
+/// @DnDArgument : "obj" "Casino_Tapper_Obj"
+/// @DnDSaveInfo : "obj" "Casino_Tapper_Obj"
+var l434DA53E_0 = false;
+l434DA53E_0 = instance_exists(Casino_Tapper_Obj);
+if(l434DA53E_0)
+{
+	/// @DnDAction : YoYo Games.Instances.Change_Instance
+	/// @DnDVersion : 1
+	/// @DnDHash : 49087A98
+	/// @DnDParent : 434DA53E
+	/// @DnDArgument : "objind" "Background_TitleCasino_obj"
+	/// @DnDSaveInfo : "objind" "Background_TitleCasino_obj"
+	instance_change(Background_TitleCasino_obj, true);
+}

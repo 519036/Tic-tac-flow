@@ -69,8 +69,8 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Interface",
-    "path": "folders/Sprites/Interface.yy",
+    "name": "UI",
+    "path": "folders/Sprites/Interface/Interactors/UI.yy",
   },
   "resourceVersion": "1.0",
   "name": "PlayerTwo",

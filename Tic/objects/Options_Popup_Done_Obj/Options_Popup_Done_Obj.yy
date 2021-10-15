@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "Options_Popup_Done",
-    "path": "sprites/Options_Popup_Done/Options_Popup_Done.yy",
+    "name": "Options_Popup_AdditionSpace",
+    "path": "sprites/Options_Popup_AdditionSpace/Options_Popup_AdditionSpace.yy",
   },
   "solid": false,
   "visible": true,

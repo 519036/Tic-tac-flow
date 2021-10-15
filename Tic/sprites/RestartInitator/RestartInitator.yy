@@ -69,8 +69,8 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Interface",
-    "path": "folders/Sprites/Interface.yy",
+    "name": "Interactors",
+    "path": "folders/Sprites/Interface/Interactors/Interactors.yy",
   },
   "resourceVersion": "1.0",
   "name": "RestartInitator",

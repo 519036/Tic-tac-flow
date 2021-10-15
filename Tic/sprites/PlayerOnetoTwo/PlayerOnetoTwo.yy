@@ -48,31 +48,16 @@
     {"compositeImage":{"FrameId":{"name":"b49f22ec-d2a3-47e0-b47d-45341eb9a723","path":"sprites/PlayerOnetoTwo/PlayerOnetoTwo.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
         {"FrameId":{"name":"b49f22ec-d2a3-47e0-b47d-45341eb9a723","path":"sprites/PlayerOnetoTwo/PlayerOnetoTwo.yy",},"LayerId":{"name":"cc3d1cc0-a41e-4707-8b08-2a2eda77b3ba","path":"sprites/PlayerOnetoTwo/PlayerOnetoTwo.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
       ],"parent":{"name":"PlayerOnetoTwo","path":"sprites/PlayerOnetoTwo/PlayerOnetoTwo.yy",},"resourceVersion":"1.0","name":"b49f22ec-d2a3-47e0-b47d-45341eb9a723","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"9c49a763-a302-445d-9e0c-17b512a6bd82","path":"sprites/PlayerOnetoTwo/PlayerOnetoTwo.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"9c49a763-a302-445d-9e0c-17b512a6bd82","path":"sprites/PlayerOnetoTwo/PlayerOnetoTwo.yy",},"LayerId":{"name":"cc3d1cc0-a41e-4707-8b08-2a2eda77b3ba","path":"sprites/PlayerOnetoTwo/PlayerOnetoTwo.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"PlayerOnetoTwo","path":"sprites/PlayerOnetoTwo/PlayerOnetoTwo.yy",},"resourceVersion":"1.0","name":"9c49a763-a302-445d-9e0c-17b512a6bd82","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"92c70118-0375-48d4-9cc0-6dc492d544dd","path":"sprites/PlayerOnetoTwo/PlayerOnetoTwo.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"92c70118-0375-48d4-9cc0-6dc492d544dd","path":"sprites/PlayerOnetoTwo/PlayerOnetoTwo.yy",},"LayerId":{"name":"cc3d1cc0-a41e-4707-8b08-2a2eda77b3ba","path":"sprites/PlayerOnetoTwo/PlayerOnetoTwo.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"PlayerOnetoTwo","path":"sprites/PlayerOnetoTwo/PlayerOnetoTwo.yy",},"resourceVersion":"1.0","name":"92c70118-0375-48d4-9cc0-6dc492d544dd","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"0a0857f6-2316-4d93-a843-fbf9f7d0f725","path":"sprites/PlayerOnetoTwo/PlayerOnetoTwo.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"0a0857f6-2316-4d93-a843-fbf9f7d0f725","path":"sprites/PlayerOnetoTwo/PlayerOnetoTwo.yy",},"LayerId":{"name":"cc3d1cc0-a41e-4707-8b08-2a2eda77b3ba","path":"sprites/PlayerOnetoTwo/PlayerOnetoTwo.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"PlayerOnetoTwo","path":"sprites/PlayerOnetoTwo/PlayerOnetoTwo.yy",},"resourceVersion":"1.0","name":"0a0857f6-2316-4d93-a843-fbf9f7d0f725","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"aa512f6b-976d-4741-ab6f-c6df3da0e486","path":"sprites/PlayerOnetoTwo/PlayerOnetoTwo.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"aa512f6b-976d-4741-ab6f-c6df3da0e486","path":"sprites/PlayerOnetoTwo/PlayerOnetoTwo.yy",},"LayerId":{"name":"cc3d1cc0-a41e-4707-8b08-2a2eda77b3ba","path":"sprites/PlayerOnetoTwo/PlayerOnetoTwo.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"PlayerOnetoTwo","path":"sprites/PlayerOnetoTwo/PlayerOnetoTwo.yy",},"resourceVersion":"1.0","name":"aa512f6b-976d-4741-ab6f-c6df3da0e486","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"b9df026a-619b-4907-a6f4-58f752e270b8","path":"sprites/PlayerOnetoTwo/PlayerOnetoTwo.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"b9df026a-619b-4907-a6f4-58f752e270b8","path":"sprites/PlayerOnetoTwo/PlayerOnetoTwo.yy",},"LayerId":{"name":"cc3d1cc0-a41e-4707-8b08-2a2eda77b3ba","path":"sprites/PlayerOnetoTwo/PlayerOnetoTwo.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"PlayerOnetoTwo","path":"sprites/PlayerOnetoTwo/PlayerOnetoTwo.yy",},"resourceVersion":"1.0","name":"b9df026a-619b-4907-a6f4-58f752e270b8","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
     "spriteId": {"name":"PlayerOnetoTwo","path":"sprites/PlayerOnetoTwo/PlayerOnetoTwo.yy",},
     "timeUnits": 1,
     "playback": 1,
-    "playbackSpeed": 25.0,
+    "playbackSpeed": 28.0,
     "playbackSpeedType": 0,
     "autoRecord": true,
     "volume": 1.0,
-    "length": 13.0,
+    "length": 8.0,
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
@@ -85,11 +70,6 @@
             {"id":"257203fc-c6d5-4a00-bed0-52162597be35","Key":5.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"04a1d8d0-e0fe-4fa1-b585-5d94d36ae449","path":"sprites/PlayerOnetoTwo/PlayerOnetoTwo.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"a9cdb32e-f8f9-41c9-b539-84b0f763252c","Key":6.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"7198a001-5042-4eea-8772-bbb68a97593e","path":"sprites/PlayerOnetoTwo/PlayerOnetoTwo.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"078678ce-5eb6-454c-8da5-618d1058a2bc","Key":7.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"b49f22ec-d2a3-47e0-b47d-45341eb9a723","path":"sprites/PlayerOnetoTwo/PlayerOnetoTwo.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-            {"id":"7c63db61-5611-4342-9942-55bd498a349e","Key":8.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"9c49a763-a302-445d-9e0c-17b512a6bd82","path":"sprites/PlayerOnetoTwo/PlayerOnetoTwo.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-            {"id":"d2b7c188-7912-44a1-9c36-6662bafdf0d7","Key":9.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"92c70118-0375-48d4-9cc0-6dc492d544dd","path":"sprites/PlayerOnetoTwo/PlayerOnetoTwo.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-            {"id":"ad7871e1-6353-4641-a45c-ee2f750c86e9","Key":10.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"0a0857f6-2316-4d93-a843-fbf9f7d0f725","path":"sprites/PlayerOnetoTwo/PlayerOnetoTwo.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-            {"id":"2b21baea-6aaa-41d3-93ac-e613056a32ea","Key":11.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"aa512f6b-976d-4741-ab6f-c6df3da0e486","path":"sprites/PlayerOnetoTwo/PlayerOnetoTwo.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-            {"id":"77b03d92-85e6-45df-878c-561b597096cf","Key":12.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"b9df026a-619b-4907-a6f4-58f752e270b8","path":"sprites/PlayerOnetoTwo/PlayerOnetoTwo.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
     ],
     "visibleRange": null,
@@ -117,8 +97,8 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Interface",
-    "path": "folders/Sprites/Interface.yy",
+    "name": "UI",
+    "path": "folders/Sprites/Interface/Interactors/UI.yy",
   },
   "resourceVersion": "1.0",
   "name": "PlayerOnetoTwo",

@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "PopupMain_Reverse",
-    "path": "sprites/PopupMain_Reverse/PopupMain_Reverse.yy",
+    "name": "Options_Popup_Reverse",
+    "path": "sprites/Options_Popup_Reverse/Options_Popup_Reverse.yy",
   },
   "solid": false,
   "visible": true,
